@@ -1,4 +1,4 @@
-public class primitives{
+public class Primitives{
 //the primitives with their default values
 	public static void main(String[] args){
 		byte myByte=0;//0000 0000 (eight tranisistors at 0 state each) 8 bits = 1 byte
