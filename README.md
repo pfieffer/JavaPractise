@@ -5,7 +5,7 @@ This repository is a collection of Java files which I am using to learn fundamen
 ## I have commented a lot, which should help you understand what is going on.
 
 ### To run on your machine
-1. Clone the repsoitory. Type `git clone ` or `git clone ` in your terminal or git bash.
+1. Clone the repsoitory. Type `git clone git@github.com:pfieffer/JavaPractise.git` or `git clone https://github.com/pfieffer/JavaPractise.git` in your terminal or git bash.
 2. To compile, use terminal or cmd. 
 3. Make sure, you have java installed. Type `java --version` to check. If you have not installed java, go ahead and do that first.
 4. Type `javac FILE_NAME.java` for `FILE_NAME` that you want to compile, which will generate a `.class` file on successful compilation.
